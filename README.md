@@ -42,9 +42,9 @@ Quizzi is a web-based platform designed for entertainment and fun learning exper
 ---
 
 ## Technologies Used
-- **Frontend**: HTML, CSS, JavaScript, [Frontend Framework]
-- **Backend**: [Backend Framework]
-- **Database**: [Database Technology]
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: PHP
+- **Database**: MySQL
 - **Version Control**: Git & GitHub
 
 ---
